@@ -7,6 +7,7 @@ img_path: "/images/2.jpeg"
 layout: page
 menu:
   main:
+    title: Marketing
     weight: 3
 
 ---
