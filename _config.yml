@@ -6,7 +6,7 @@ layout_style: grid
 palette: blue
 header:
   title: Blaze Wheel
-  logo_img: "/images/7-1.jpg"
+  logo_img: ''
   has_nav: true
 footer:
   content: "&copy; All rights reserved."
