@@ -1,6 +1,6 @@
 ---
 title: FINANCE
-subtitle: This is a short page about me and my work
+subtitle: We need approximately $60,000 to get this project start
 img_path: "/images/3.jpeg"
 layout: page
 menu:
@@ -11,17 +11,9 @@ menu:
 ---
 Startups are high risk, high gain game. To start a new business we will need money to get this off the ground. Below is the table of my cost cutting.
 
-    ITEMS              COST PER YEAR              REFERENCE
-
-* Contract Agreement             $ 4200
-
-  of health Insurance
-* Contract with Google            $ 124
-
-  play store & Apple
-* Server Host Cost                   $ 100,000
-* Government Ontario             $ 150
-
-  License
-* Profit of Me                         $ 80,000                            Min wage $15/hrs
-* RFP                                     $ 10,000                            $ 10/hrs minimum
+* Contract Agreement of health Insurance = $4200
+* Contract with Google play store & Apple store = $124
+* Server Host Cost = $100,000
+* Government Ontario License = $150
+* Profit of Me  =  $ 80,000                            
+* RFP                = $ 10,000                          
