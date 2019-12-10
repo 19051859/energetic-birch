@@ -1,6 +1,6 @@
 ---
 title: RISK
-subtitle: Risks to our venture
+subtitle: Risks of our venture
 img_path: "/images/Car-Rental-Risks.jpeg"
 layout: page
 menu:
