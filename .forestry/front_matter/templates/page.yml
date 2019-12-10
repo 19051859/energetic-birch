@@ -24,5 +24,6 @@ fields:
   config:
     required: true
 pages:
+- "./vision.md"
 - style-guide.md
 - about.md
