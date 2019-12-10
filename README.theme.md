@@ -1,5 +1,8 @@
 ---
 title: Strategies
+menu:
+  main:
+    weight: 4
 
 ---
 # Ampersand

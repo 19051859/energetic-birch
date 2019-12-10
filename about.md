@@ -5,7 +5,7 @@ img_path: images/about.jpg
 layout: page
 menu:
   main:
-    title: About
+    title: VISION
     weight: 2
 
 ---
