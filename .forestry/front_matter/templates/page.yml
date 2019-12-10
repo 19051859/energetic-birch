@@ -24,8 +24,5 @@ fields:
   config:
     required: true
 pages:
-- "./finance.md"
-- "./vision.md"
 - about.md
 - style-guide.md
-- "./vision-1.md"
