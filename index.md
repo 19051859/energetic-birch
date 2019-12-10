@@ -3,13 +3,12 @@ title: Home
 sections:
 - type: intro
   template: intro
-  title: Intro
+  title: Blaze wheel
   section_id: intro
   component: intro.html
-  content: This is the "about" excerpt. It can be used to provide a paragraph about
-    yourself that people can read on the homepage to get a sense of who you are. There
-    also exists a dedicated about page where you can write more about yourself for
-    those who are interested.
+  content: Blaze Wheel is an idea built where people from USA, Canada can rent their
+    personal car to someone else without any fear and to make money even on vacation
+    mode without investing a single penny.
   actions:
   - label: Learn More
     url: "/about"
