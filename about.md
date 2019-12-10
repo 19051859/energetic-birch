@@ -1,5 +1,5 @@
 ---
-title: Vision
+title: VISION
 subtitle: "“My vision is to create quick and reliable services at a fair price to
   the build customer Satisfaction”"
 img_path: "/images/4.jpeg"
