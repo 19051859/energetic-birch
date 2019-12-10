@@ -1,6 +1,6 @@
 ---
 title: FINANCE
-subtitle: We need approximately $60,000 to get this project start
+subtitle: Initial investment of our venture
 img_path: "/images/3.jpeg"
 layout: page
 menu:
