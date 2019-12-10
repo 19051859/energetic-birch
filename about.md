@@ -4,10 +4,6 @@ subtitle: "“My vision is to create quick and reliable services at a fair price
   the build customer Satisfaction”"
 img_path: "/images/4.jpeg"
 layout: page
-menu:
-  main:
-    title: VISION
-    weight: 2
 
 ---
 
