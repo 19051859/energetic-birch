@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Easiest way to rental car without fearing
-subtitle: Value proposition
+subtitle: True Values
 date: 2019-12-04 05:00:00 +0000
 thumb_img_path: "/images/6.jpeg"
 content_img_path: ''
